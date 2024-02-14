@@ -29,7 +29,7 @@ This project implements a simple cab allocation system using C++. It allows user
 
 ## File Structure
 
-- `main.cpp`: Contains the main code implementing the cab allocation system.
+- `CabAllocation.cpp`: Contains the main code implementing the cab allocation system.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
 ## Contributors
